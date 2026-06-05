@@ -1,9 +1,8 @@
 {
   "name": "model-framework-integration",
-  "description": "Skills for integrating across major models and frameworks (Integral Theory / AQAL, Ego Development / EDT, Lean) \u2014 connecting one body of practice to another with epistemic care.",
+  "description": "Skills for integrating across major models and frameworks (Integral Theory / AQAL, Ego Development / EDT, Lean) — connecting one body of practice to another with epistemic care.",
   "version": "0.1.0",
   "author": {
     "name": "Kraig Parkinson"
-  },
-  "repository": {}
+  }
 }
