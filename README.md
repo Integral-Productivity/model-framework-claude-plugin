@@ -1,4 +1,4 @@
-# model-framework-integration
+# model-framework
 
 A Claude Code plugin for integrating across major models and frameworks — Integral Theory (Wilber's AQAL), Ego Development Theory (Cook-Greuter / LMF), Lean thinking, and similar bodies of practice. The aim is to provide carefully-scoped bridging skills that connect one framework to another with epistemic humility ("a useful lens" rather than "the definitive model").
 
@@ -7,7 +7,7 @@ A Claude Code plugin for integrating across major models and frameworks — Inte
 From the Claude Code marketplace:
 
 ```
-/plugin install model-framework-integration
+/plugin install model-framework
 ```
 
 Or add this repo directly to your plugin sources.
